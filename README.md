@@ -11,4 +11,8 @@ Compile with `javac MaleFemalePercentages.java`, then run `java MaleFemalePercen
 
 Compile with `javac MaleFemalePercentages.java`, then run `java MaleFemalePercentages` and enter the number of males and females in the class. The program displays each group's percentage of the total.
 ## hnjv
+<<<<<<< HEAD
  e8a8436 (add)
+=======
+sgvgwh
+>>>>>>> e87db38 (add)
