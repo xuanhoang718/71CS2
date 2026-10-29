@@ -6,6 +6,7 @@ Compile with `javac IngredientAdjuster.java`, then run `java IngredientAdjuster`
 
 ## Male and female percentages
 
+<<<<<<< HEAD
 HEAD
 Compile with `javac MaleFemalePercentages.java`, then run `java MaleFemalePercentages` and enter the number of males and females in the class. The program displays each group's percentage of the total. fuck
 
@@ -16,3 +17,6 @@ Compile with `javac MaleFemalePercentages.java`, then run `java MaleFemalePercen
 =======
 sgvgwh
 >>>>>>> e87db38 (add)
+=======
+Compile with `javac MaleFemalePercentages.java`, then run `java MaleFemalePercentages` and enter the number of males and females in the class. The program displays each group's percentage of the total.xin chao
+>>>>>>> e3f92bd (update java)
